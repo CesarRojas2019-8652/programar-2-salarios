@@ -5,7 +5,7 @@ namespace programa_2_salarios
     class Psalarios
     {
         private string[] empleados;
-        private int[,] salario;
+        private int[] salario;
         private int[] salariotot;
 
         public void Cargar() 
